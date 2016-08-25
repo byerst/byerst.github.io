@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Timothy Byers",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://byerst.github.io/images/13937948_10208613720158640_1091054735839734458_o.jpg",
+    "email": "byerst@hawaii.edu",
+    "phone": "808-358-9165",
+    "website": "https://byerst.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate Spring, 2017.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "byerst",
+        "url": "http://github.com/byerst"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "timothybyers",
+        "url": "http://linkedin.com/in/timothy-byers-1378a3bb?trk=nav_responsive_tab_profile"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Virtual/Augmented Reality",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Analytics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
