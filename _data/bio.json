@@ -51,10 +51,15 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML",
+        "CSS",
+        "XML",
+        "Unity3D",
+        "Assembly"
       ]
     },
     {
@@ -63,63 +68,66 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Windows",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "MATLAB",
+        "MPLAB",
+        "Verilog"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2017)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.63",
       "courses": [
+        ""
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Booz Allen Hamilton",
+      "position": "Summer Games Intern",
+      "website": "http://www.boozallen.com/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-08-12",
+      "summary": "Work in a team of six to develop a virtual reality application for android mobile devices",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Utilize the Unity game engine to develop for google cardboard technology",
+        "Implement various assets through C# scripting"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH College of Engineering",
+      "position": "Teaching Assistant",
+      "website": "http://www.eng.hawaii.edu/",
+      "startDate": "2016-01-01",
+      "endDate": "2016-05-01",
+      "summary": "Run labs and assist students in object oriented design course in C++",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Debug students' code",
+        "Explain various concepts taught in the object oriented design course"
+      ]
+    },
+    {
+      "company": "UH Ka Leo O Hawai'i News",
+      "position": "Web Developer",
+      "website": "http://www.kaleo.org",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Work as part of web development team to manage Ka Leo website",
+      "highlights": [
+        "Maintain website through use of HTML and CSS"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
     {
       "organization": "",
       "website": "",
@@ -128,23 +136,21 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, IEEE Student Branch, 2015-Present",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Centennial Scholarship",
       "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to Hawaiʻi residents who graduate from a Hawaiʻi high school with an unweighted 3.8 grade point average (GPA) or 1800 on the three-part SAT Reasoning Test (or the ACT equivalent) and are admitted as freshmen as full-time students."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "title": "Dean's List",
+      "date": "Fall 2013-Fall 2014, Spring 2016",
+      "awarder": "University of Hawaii College of Engineering",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
