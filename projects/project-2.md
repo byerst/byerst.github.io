@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/scel.png
-title: SCEL Instrumentation Devices
+title: SCEL Instrumentation Device
 permalink: projects/vacay
 date: 2016
 labels:
