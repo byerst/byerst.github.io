@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/scel.png
 title: SCEL Instrumentation Devices
 permalink: projects/vacay
 date: 2016
@@ -13,10 +13,10 @@ summary: Worked in a small team to develop an Instrumentation device for the Sma
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Instrumentation1.png">
+  <img class="ui image" src="../images/Instrumentation2.png">
+  <img class="ui image" src="../images/scel.png">
+  <img class="ui image" src="../images/Instrumentation3.png">
 </div>
 
 The [Smart Campus Energy Lab (SCEL)](http://scel-hawaii.org/) at the University of Hawaii at Manoa focuses on the design and development of low-cost, accurate, and reliable environmental sensor modules that can easily be reproduced for mass deployment on rooftops across the University of Hawaii at Manoa campus. To aid in their development, our team was tasked with developing an in-house data logger to assist SCEL students in conducting their analysis of their components and boards.
