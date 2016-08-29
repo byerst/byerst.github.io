@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui floated image" src="../images/software-code.jpg">
+<img class="ui medium round floated image" src="../images/software-code.jpg">
 
 
 Before starting at the University of Hawaii, I had never been exposed to programming at all. The only exposure I had to software engineering or software development as a whole was during a career day at my high school. There was a software engineering group visiting to talk to students and I had signed up to see what they were about. After listening to them talk about what they did and their experiences, I thought that software engineering sounded like the worst, most boring occupation in the world. Fast-forward a few years and now I can happily say I'm on track to become a software engineer myself.
