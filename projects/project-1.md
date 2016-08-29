@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: "IM Near" Android App
+permalink: projects/android
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Mobile
+  - Android
+  - Java
+summary: My partner and I developed an android application to automate text messaging for users operating vehicles.
 ---
 
 <div class="ui small rounded images">
