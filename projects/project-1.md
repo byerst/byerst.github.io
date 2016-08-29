@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: "IM Near" Android App
+title: IM Near Android App
 permalink: projects/android
 date: 2015
 labels:
