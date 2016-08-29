@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/scel.png
 title: SCEL Instrumentation Device
-permalink: projects/vacay
+permalink: projects/instrumentation
 date: 2016
 labels:
   - Python
