@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fg1.JPG
+image: images/arduino.png
 title: Force Glove
 permalink: projects/forceglove
 date: 2014
