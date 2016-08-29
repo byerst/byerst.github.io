@@ -12,13 +12,16 @@ labels:
 summary: An android application developed by my partner and I to automate text messaging for users operating vehicles.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/IMNearIcon-xhdpi.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/IMNearIcon-xhdpi.png">
 
-IM Near is a mobile application that I helped create with a partner as a project for our EE396 project in the Fall of 2015. This project provided me with experience in designing a mobile app using the android development kit.
+IM Near is a mobile application that I helped create with a partner as a project for our EE396 project in the Fall of 2015. IM Near is an app designed to automatically send texts informing your friends that you’ll be arriving shortly. After inputting an address, phone number, and message, IM Near uses GPS services to compare your distance to the destination. Once the user is close enough, the app sends the predetermined message. This project provided me with experience in designing a mobile app using the android development kit.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+IM Near is developed using [Android Studio](http://developer.android.com/studio/index.html), the official IDE for android development. Over the course of a few weeks, we created a mobile app that utilizes the phone's SMS messaging services and GPS tracking to automate the delivery of text messages.
+
+In this project I gained experience with android mobile application design and associated technologies, including the  [Google Maps API](https://developers.google.com/maps/) for GPS access and Google Maps integration, Java for programming the functional abilities of the application, and XML for handling the layout and organization of the app. 
+
+
+
 
 
 
