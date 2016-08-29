@@ -1,60 +1,24 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/scel.png
+title: Force Glove
+permalink: projects/forceglove
 date: 2014
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Arduino
+  - Hardware
+  - Accelerometer
+summary: Worked in a team of two to develop a boxing glove which measures the forces of punches for an EE296 project in the Fall of 2014.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Instrumentation1.png">
+  <img class="ui image" src="../images/Instrumentation2.png">
+  <img class="ui image" src="../images/scel.png">
+  <img class="ui image" src="../images/Instrumentation3.png">
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For the first project of my college career, we were tasked with developing anything we could think of utilizing the [Arduino](https://www.arduino.cc/) technology. My partner and I decided to use the ability of the Arduino to modify a boxing glove so it would measure the force of a punch. To do this we enlisted the help of an accelerometer to measure the XYZ accelerations being experienced by the glove. We used this data to calculate an estimate of force that was applied by the punch.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+This project was a great opportunity to get basic programming experience, and also get some hands on hardware experience. I learned about various hardware components, how to solder the components to create connections to the board, and finally how to utilize those connections through code.
