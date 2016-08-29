@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scel.png
+image: images/fg1.jpg
 title: Force Glove
 permalink: projects/forceglove
 date: 2014
@@ -13,10 +13,9 @@ summary: Worked in a team of two to develop a boxing glove which measures the fo
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Instrumentation1.png">
-  <img class="ui image" src="../images/Instrumentation2.png">
-  <img class="ui image" src="../images/scel.png">
-  <img class="ui image" src="../images/Instrumentation3.png">
+  <img class="ui image" src="../images/fg2.jpg">
+  <img class="ui image" src="../images/fg3.png">
+  <img class="ui image" src="../images/fg1.jpg">
 </div>
 
 For the first project of my college career, we were tasked with developing anything we could think of utilizing the [Arduino](https://www.arduino.cc/) technology. My partner and I decided to use the ability of the Arduino to modify a boxing glove so it would measure the force of a punch. To do this we enlisted the help of an accelerometer to measure the XYZ accelerations being experienced by the glove. We used this data to calculate an estimate of force that was applied by the punch.
