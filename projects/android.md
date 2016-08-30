@@ -20,8 +20,4 @@ IM Near is developed using [Android Studio](http://developer.android.com/studio/
 
 In this project I gained experience with android mobile application design and associated technologies, including the  [Google Maps API](https://developers.google.com/maps/) for GPS access and Google Maps integration, Java for programming the functional abilities of the application, and XML for handling the layout and organization of the app. 
 
-
-
-
-
-
+Source Code: [https://github.com/byerst/IMNear](https://github.com/byerst/IMNear)
