@@ -24,3 +24,5 @@ The [Smart Campus Energy Lab (SCEL)](http://scel-hawaii.org/) at the University 
 I lead the firmware development of the project, where my main focus was handling the communication between the board and the computer. I used serial communications to transmit the data being received on the board to the computer where it could then be processed and handled to be displayed to the user.
 
 This project provided a great opportunity to gain more experience with Python and embedded systems development.
+
+Source Code: [https://github.com/byerst/SCEL-Instrumentation](https://github.com/byerst/SCEL-Instrumentation)
