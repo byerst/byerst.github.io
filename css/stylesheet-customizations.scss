@@ -14,13 +14,13 @@ body {
 // Customize the menubar color
 .ui.menu {
   background: #00bcd4;
+  a:hover {
+    color:blue;
+  }
 }
 
 .ui.menu .item {
   color: white;
-  &:hover {
-    color: rgba(255,255,255,0.8);
-  }
 }
 
 .ui.menu .active.item {
