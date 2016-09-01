@@ -11,12 +11,13 @@ body {
   //background: linear-gradient(to bottom right, #dae6e3, white);
 }
 
+a:hover {
+  color:blue;
+}
+
 // Customize the menubar color
 .ui.menu {
   background: #00bcd4;
-  a {
-    color:blue;
-  }
 }
 
 .ui.menu .item {
