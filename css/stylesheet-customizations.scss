@@ -19,6 +19,11 @@ body {
 .ui.menu .item {
   color: white;
 }
+
+.ui.menu .active.item {
+  color: white;
+}
+
 // Customize the home page icon colors
 .icon-color {
   color: darken(#d2e1dd, 20%);
