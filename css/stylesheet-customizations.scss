@@ -14,9 +14,11 @@ body {
 // Customize the menubar color
 .ui.menu {
   background: #00bcd4;
-  color: white;
 }
 
+.ui.menu .item {
+  color: white;
+}
 // Customize the home page icon colors
 .icon-color {
   color: darken(#d2e1dd, 20%);
