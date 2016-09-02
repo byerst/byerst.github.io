@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Javascript Reflection
-date: 2016-08-28
+date: 2016-09-01
 labels:
   - Javascript
   - Software Engineering
