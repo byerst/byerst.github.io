@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium round floated image" src="../images/javascript.png">
+<img class="ui medium top round floated image" src="../images/javascript.png">
 
 Prior to taking ICS314, I had no experience with the JavaScript programming language. I have however worked with various other languages such as C, C++, C#, Java, and Python which I feel have given me a solid foundation in learning other languages.
 
