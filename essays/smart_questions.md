@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Javascript Reflection
-date: 2016-09-01
+title: Smart Questions
+date: 2016-09-08
 labels:
-  - Javascript
   - Software Engineering
   - Learning
+  - Stack Overflow
 ---
 
-<img class="ui medium round floated right image" src="../images/questionmark.png">
+<img class="ui medium round floated right image" src="../images/questionmarkmeme.png">
 
