@@ -9,5 +9,5 @@ labels:
   - Stack Overflow
 ---
 
-<img class="ui round floated right image" src="../images/questionmarkmeme.png">
+<img class="ui medium round floated right image" src="../images/questionmarkmeme.jpg">
 
