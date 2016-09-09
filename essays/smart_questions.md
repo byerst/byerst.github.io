@@ -27,5 +27,14 @@ while (counter != 50):<br>
 
 </blockquote>
 
-This question here
+This question here is an example of a poorly written question. One of the main reasons for this is how unclear the question is. Anyone trying to answer this question is going to have a difficult time understanding the problem. The person also states that this is a homework assignment, and most people believe those problems are to be worked on your own rather than turning elsewhere for an answer. It is also worth noting that the subject of this question was "Make this script work." It's never a good idea to demand something from people who don't have to help and are doing so of their own accord. 
 
+<blockquote cite="http://stackoverflow.com/questions/111102/how-do-javascript-closures-work">
+How would you explain JavaScript closures to someone with a knowledge of the concepts they consist of (for example functions, variables and the like), but does not understand closures themselves?
+
+I have seen the Scheme example given on Stack Overflow, but unfortunately it did not help.
+</blockquote>
+
+This question is an example of a good question because they do a good job of explaining their current working knowledge with JavaScript to help provide background information. The person also shows that they have put forth some kind of effort in trying to understand the problem on their own but they were unsuccessful. These types of questions lend themselves to receiving better answers.
+
+As software engineers, asking questions is a huge part of how we gain new knowledge so we must learn how to ask questions in a smart way. Through this we will be able to get the most helpful answers and ultimately help us with our work.
