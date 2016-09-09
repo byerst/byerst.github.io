@@ -15,7 +15,6 @@ With so much information out there, we find ourselves often times asking questio
 
 <blockquote cite="http://stackoverflow.com/questions/32590751/make-this-script-work">
 For an assignment I need to write a piece of code which goes through numbers from 1 to 100 and only prints even ones and stops once they are printed. Yes, I know how to do it with a for loop but that's easy... I want to know if it is possible to do it with a while loop. Here is my very clunky code (the result of me constantly changing things around):
-<br>
 <pre>
 import random<br>
 counter = 1<br>
