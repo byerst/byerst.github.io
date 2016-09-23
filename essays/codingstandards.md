@@ -9,6 +9,4 @@ labels:
   - ESLint
 ---
 
-<img class="ui large round floated middle image" src="../images/eslint.png">
-
 This is a paragraph.
