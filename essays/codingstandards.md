@@ -9,5 +9,5 @@ labels:
   - ESLint
 ---
 
-<img class="ui large round floated middle image" src="../images/git.jpg">
+<img class="ui large round floated middle image" src="../images/eslint.png">
 
