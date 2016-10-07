@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks
+title: Frameworks Make the Dream Work
 date: 2016-10-06
 labels:
   - Software Engineering
