@@ -15,5 +15,5 @@ Even though UI frameworks may seem difficult to learn at first, what you obtain 
 
 I personally had a good experience with Semantic UI over the couple of weeks I spent learning it. How you apply the Semantic UI was fairly straightforward to me so I did not run into any particularly strenuous issues early on. There is also a lot of documentation on how to use it, so applying something new from the framework is as simple as looking at examples. I found a big reason Semantic was easy for me to pick up is how intuitive it is. Their class system and Javascript usage is fairly easy to follow and understand how to implement. This makes it really easy to apply to whatever you're working on. 
 
-To Be Continued...
+In my short time working with Semantic I've used a variety of the modules and collections that they provide, and I feel I've only scratched the surface. There is such a wide range of elements provided by Semantic that can yield endless development possibilities. The ease of use of Semantic also makes it easy to create whatever you're thinking of. UI frameworks in general allow developers a quick and easy way to create visually appealing and responsive webpages.
 
