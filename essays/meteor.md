@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor
+title: Application Development from Outer Space
 date: 2016-10-18
 labels:
   - Software Engineering
