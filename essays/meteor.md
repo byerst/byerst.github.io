@@ -9,6 +9,6 @@ labels:
   - Javascript
 ---
 
-<img class="ui huge round floated middle image" src="../images/meteor.png">
+<img class="ui huge round middle image" src="../images/meteor.png">
 
 Paragraph
