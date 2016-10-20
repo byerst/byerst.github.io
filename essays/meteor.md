@@ -9,6 +9,6 @@ labels:
   - Javascript
 ---
 
-<img style="padding-bottom: 10px" class="ui huge round middle image" src="../images/meteor.png">
+<img style="padding-bottom: 20px" class="ui huge round middle image" src="../images/meteor.png">
 
 Paragraph
