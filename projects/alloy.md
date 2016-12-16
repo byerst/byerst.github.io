@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/alloy-icon.png
+image: images/alloy-wordmark-square.png
 title: Alloy Web Application
 permalink: projects/alloy
 date: 2016
