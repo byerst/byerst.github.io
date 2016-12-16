@@ -22,4 +22,8 @@ There were five contributors working on the development of Alloy in the Fall 201
 
 <img class="ui fluid image" src="../images/profject-profile-final.png">
 
+Through my work on this project I've been able to improve a wide range of my technical skills. First and foremost I've definitely gained more experience working with Javascript. I've become comfortable developing with it over the course of the project, and I expect to be using it in future projects of mine. I've also gained experience working with Semantic UI elements and HTML in general. I now have a better understanding of how to put pen to paper and create the webpages I visualize in my mind. Much of this has come through the use of the Meteor framework for the development of this web application, and I have also become more comfortable working with Meteor itself. Before this project Meteor was extremely confusing and foreign to me, so I'm happy to say I'm no longer afraid to work with it. Along with this, my ability to use git appropriately for version control and collaboration has improved tremendously. Working in a team of five forced us all to get to know git very well so that we waste less time stepping on each other's toes. Overall this was a great learning experience for both my technical and soft skills, working in a team to develop a web application.
+
+<img class="ui fluid image" src="../images/logged-out-home.png">
+
 [Check out the project here!](https://alloyteams.github.io/)
